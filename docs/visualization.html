@@ -6,10 +6,12 @@
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.20.8"></script>
 </head>
 <body>
-  <div id="vis"/>
+  <div id="vis", width:100%,height:100%/>
   <script>
     const spec = {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width":"container",
+  "height":"container",
   "data": {"url": "data/seattle-weather.csv"},
   "layer": [
     {
