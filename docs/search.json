@@ -9,8 +9,64 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Contact and CV info",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "A full CV is available here"
+  },
+  {
+    "objectID": "markdown.html",
+    "href": "markdown.html",
+    "title": "markdown",
+    "section": "",
+    "text": "This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
+  },
+  {
+    "objectID": "markdown.html#including-plots",
+    "href": "markdown.html#including-plots",
+    "title": "markdown",
+    "section": "Including Plots",
+    "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot."
+  },
+  {
+    "objectID": "about.html#contact-info",
+    "href": "about.html#contact-info",
+    "title": "Contact and CV info",
+    "section": "Contact info",
+    "text": "Contact info\nT: 07 47814741\nT (INT’L): +61 7 47814741\nE: justin.sexton1@jcu.edu.au\nPost:\nJustin Sexton\nPost Doctoral Research Fellow\nCollege of Science and Engineering\nDivision of Tropical Environments and Engineering\nBuilding 14\nRoom 117\n1 James Cook Drive\nTownsville QLD 4811 AUSTRALIA"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Sexton, J. (2020). Statistical data mining algorithms for optimising analysis of spectroscopic data from on-line NIR mill systems. College of Science, Technology and Engineering. Townsville, Australia, James Cook University. Doctor of Philosophy: 171.\nSexton, J. (2015). Bayesian statistical calibration for variety specific trait parameters in a sugarcane crop model. College of Science, Technology and Engineering. Townsville, Australia, James Cook University. Master’s: 111."
+  },
+  {
+    "objectID": "publications.html#published-scientific-journal-articles",
+    "href": "publications.html#published-scientific-journal-articles",
+    "title": "Publications",
+    "section": "Published scientific journal articles",
+    "text": "Published scientific journal articles\nBiggs J, Everingham Y, Skocaj D, Schroeder B, Sexton J and Thorburn P 2021. The potential for refining nitrogen fertiliser management through accounting for climate impacts: an exploratory study for the Tully region. Marine Pollution Bulletin, 170, 10.1016/j.marpolbul.2021.112664.\nSexton, J., Everingham, Y., Donald, D., Staunton, S., White, R. 2020. Investigating the identification of atypical sugarcane using NIR analysis of online mill data. Computers and Electronics in Agriculture, 168. 105-111, 10.1016/j.compag.2019.10111.\nSexton, J., Everingham, Y., Donald, D., Staunton, S., White, R. 2018.  A comparison of non-linear regression methods for improved on-line near infrared spectroscopic analysis of a sugarcane quality measure. Journal of Near Infrared Spectroscopy, 26(5). 297-310, https://doi.org/10.1177/0967033518802448.\nSexton, J., Everingham, Y., Inman-Bamber, G., 2017.  A global sensitivity analysis of cultivar trait parameters in a sugarcane growth model for contrasting production environments in Queensland, Australia. European Journal of Agronomy, 88. pp. 96-105, http://dx.doi.org/10.1016/j.eja.2015.11.009\nSexton, J., Everingham, Y., Inman-Bamber, G., 2016.  A theoretical and real world evaluation of two Bayesian techniques for the calibration of variety parameters in a sugarcane crop model. Environmental Modelling & Software, 83, 126-142, http://dx.doi.org/10.1016/j.envsoft.2016.05.014.\nEveringham, Y., Sexton, J., Skocaj, D., Inman-Bamber, G., 2016. Accurate prediction of sugarcane yield using a random forest algorithm. Agronomy for Sustainable Development. 36(27) https://doi.org/10.1007/s13593-016-0364-z.\nStokes, C., Inman-Bamber, G., Everingham, Y., Sexton, J., 2016. Measuring and modelling CO2 effects on sugarcane. Environmental Modelling and Software. 78,68-78. https://doi.org/10.1016/j.envsoft.2015.11.022.\nSexton,J., Everingham, Y., Timbal, B., 2015. Harvest disruption projections for the Australian sugar industry. International Journal of Climate Change Strategies and Management 7(2), http://dx.doi.org/10.1108/IJCCSM-03-2013-0018.\nEveringham, Y., Inman-Bamber,G., Sexton, J., Stokes, C., 2015. A dual ensemble agroclimate modelling procedure to assess climate change impacts on sugarcane production in Australia. Agricultural Sciences, 6, 870-888. http://dx.doi.org/10.4236/as.2015.68084.\nGyuris, E., Everingham, Y., Sexton,J., 2012. Maths anxiety in a first year introductory quantitative skills subject at a regional Australian university – establishing a baseline. International Journal of Innovation in Science and Mathematics Education, 20(2). pp. 42-54. https://researchonline.jcu.edu.au/24807/.\nEveringham, Y., Gyuris, E., Sexton, J., 2013. Using student feedback to improve student attitudes and mathematical confidence in a first year interdisciplinary quantitative course: from the ashes of disaster!. International Journal of Mathematical Education in Science and Technology, 44(6). 877-892. http://dx.doi.org/10.1080/0020739X.2013.810786."
+  },
+  {
+    "objectID": "publications.html#published-peer-reviewed-conference-papers",
+    "href": "publications.html#published-peer-reviewed-conference-papers",
+    "title": "Publications",
+    "section": "Published peer-reviewed conference papers",
+    "text": "Published peer-reviewed conference papers\nStringer, J.K., Skocaj, D.M., Rigby, A., Olayemi, M., Everingham, Y.L., Sexton, J. (2019) Productivity performance of climatological sub-regions within the Tully mill area. In: Proceedings of the 41st Annual Conference of the Australian Society of Sugar Cane Technologists. pp. 156-163 In: ASSCT 2019: 41st Annual Conference of the Australian Society of Sugar Cane Technologists, 30 April - 3 May 2019, Toowoomba, QLD, Australia.\nThorburn, P.J., Biggs, J.S., Skocaj, D., Schroeder, B.L., Sexton, J., and Everingham, Y. (2018) Crop size and sugarcane nitrogen fertiliser requirements: Is there a link? In: Proceedings of the 40th Annual Conference of the Australian Society of Sugar Cane Technologists (40) pp. 210-218 In: ASSCT 2018: 40th Annual Conference of the Australian Society of Sugar Cane Technologists, 17-20 April 2018, Mackay, QLD, Australia\nSexton, J., Everingham, Y., Donald, D., Staunton, S., White, R. 2018. A feasibility test for detection of atypical cane samples using near infrared spectroscopy. Proceedings of the 40th Annual Conference of the Australian Society of Sugar Cane Technologists. In: ASSCT 2018: 40th Annual Conference of the Australian Society of Sugar Cane Technologists, 18-20 April 2018, Mackay, QLD, Australia\nSexton, J., Everingham, Y., Skocaj, D., Biggs, J., Thorburn, P., Schroeder, B. 2017 Identification of climatological sub-regions within the Tully mill area. Proceedings of the 39th Annual Conference of the Australian Society of Sugar Cane Technologists. In: ASSCT 2017: 39th Annual Conference of the Australian Society of Sugar Cane Technologists, 3-5 May 2017, Cairns, QLD, Australia\nSexton, J., Everingham, Y., Donald, D. 2017. A comparison of data mining algorithms for improving NIR models of cane quality measures. Proceedings of the 39th Annual Conference of the Australian Society of Sugar Cane Technologists. In: ASSCT 2017: 39th Annual Conference of the Australian Society of Sugar Cane Technologists, 3-5 May 2017, Cairns, QLD, Australia\nSexton, J., Everingham, Y. 2015. Better understanding trait parameters to improve simulations of cultivar yield differences. Proceedings of the 39th Annual Conference of the Australian Society of Sugar Cane Technologists. In: ASSCT 2015: 37th Annual Conference of the Australian Society of Sugar Cane Technologists, 28-30 April 2015, Cairns, QLD, Australia.\nEveringham, Y., Sexton, J., and Robson, A. 2015 A statistical approach for identifying important climatic influences on sugarcane yields. In: Proceedings of the 37th Annual Conference of the Australian Society of Sugar Cane Technologists (37) pp. 8-15. From: ASSCT 2015: 37th Annual Conference of the Australian Society of Sugar Cane Technologists, 28-30 April 2015, Bundaberg, QLD, Australia.\nEveringham, Y., Sexton, J., Timbal, B. 2013 Downscaled rainfall projections for the Burdekin, Mackay and NSW. In: Proceedings of the 35th Conference of the Australian Society of Sugar Cane Technologists. pp. 1-10. From: 35th Conference of the Australian Society of Sugar Cane Technologists, 16-18 April 2013, Townsville, QLD, Australia.\nEveringham, Y.L., Sexton, J., White, J., 2011. An introduction to multivariate adaptive regression splines for the cane industry. In: Proceedings of the 2011 Conference of the Australian Society of Sugar Cane Technologists. pp. 1-22. From: 2011 Conference of the Australian Society of Sugar Cane Technologists, 4-6 May 2011, Mackay, QLD, Australia."
+  },
+  {
+    "objectID": "map.html",
+    "href": "map.html",
+    "title": "map",
+    "section": "",
+    "text": "OGR data source with driver: GeoJSON \nSource: \"C:\\Users\\jc227226\\Documents\\website\\data\\shapefiles\\Burdekin_outline.geojson\", layer: \"cluster_outline\"\nwith 5 features\nIt has 3 fields"
+  },
+  {
+    "objectID": "quarto_ojs.html",
+    "href": "quarto_ojs.html",
+    "title": "Objective JavaScript Example",
+    "section": "",
+    "text": "viewof bill_length_min = Inputs.range(\n  [32, 50], \n  {value: 35, step: 1, label: \"Bill length (min):\"}\n)\nviewof islands = Inputs.checkbox(\n  [\"Torgersen\", \"Biscoe\", \"Dream\"], \n  { value: [\"Torgersen\", \"Biscoe\"], \n    label: \"Islands:\"\n  }\n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfiltered = data.filter(function(penguin) {\n  return bill_length_min < penguin.bill_length_mm &&\n         islands.includes(penguin.island);\n})\n\n\n\n\n\n\n\n\nInputs.table(filtered)"
   }
 ]
