@@ -1,0 +1,4 @@
+[2,"\n"]
+[1,"\u001B[1mpandoc \u001B[22m\n  to: html\n  output-file: Quarto_interactive.html\n  standalone: true\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  \n\u001B[1mmetadata\u001B[22m\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  website:\n    navbar:\n      background: primary\n      search: true\n      left:\n        - text: Home\n          file: index.qmd\n        - talks.qmd\n        - about.qmd\n  title: Getting Interactive with Scientific Programming and Quatro\n  \n"]
+[1,"Output created: Quarto_interactive.html\n\n\u001B[32mWatching files for changes\u001B[39m\n\u001B[32mBrowse at \u001B[39m\u001B[4m\u001B[32mhttp://localhost:7974/Quarto_interactive.html\u001B[39m\u001B[24m\n"]
+[1,"\u001B[31mGET: / (404: Not Found)\u001B[39m\n"]

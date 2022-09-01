@@ -1,0 +1,35 @@
+---
+title: ""
+editor: visual
+---
+
+```{r reading in map data, echo=FALSE, warning=FALSE,message=FALSE}
+library(leaflet)
+library(rgdal)
+
+burdekin_outline=readOGR(
+    paste0(getwd(),"/data/shapefiles/Burdekin_outline.geojson"),
+    verbose=FALSE
+    )
+
+map=leaflet(
+    options=leafletOptions(zoomControl=FALSE)
+)%>%
+    setView(lat=-19.85,lng=147.25,zoom=9.45)%>%
+    addTiles()%>%
+    addPolygons(
+        data = burdekin_outline,
+        fillColor = ~zonename,
+        col = ~zonename,
+        label = ~name,
+        weight=0.5,
+        fillOpacity = 0.4,
+        labelOptions = labelOptions(
+            textOnly = TRUE,
+            direction="right",
+            textsize = "14px",
+            offset = c(0.5,0)
+            ) 
+        )
+map
+```

@@ -1,0 +1,32 @@
+{
+    "id": "82E5D404",
+    "path": "~/website/quarto_ojs.qmd",
+    "project_path": "quarto_ojs.qmd",
+    "type": "quarto_markdown",
+    "hash": "2978572411",
+    "contents": "",
+    "dirty": false,
+    "created": 1661322285770.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "44,0",
+        "scrollLine": "40",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "677:480"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1661326851,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1661326851735,
+    "read_only": false,
+    "read_only_alternatives": []
+}

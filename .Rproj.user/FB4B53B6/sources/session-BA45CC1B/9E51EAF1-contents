@@ -28,7 +28,7 @@ website:
             text: "Burdekin Climate Zones"
           - href: markdown.rmd
             text: "RMD Example"
-          - href: quarto_java.qmd
+          - href: quarto_ojs.qmd
             text: "Qaurto JavaScript Example"
           
         

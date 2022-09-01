@@ -24,12 +24,14 @@ website:
             url: https://jdsextonjcu.shinyapps.io/NRM_BRICZ/
       - text: "CSE Interactive Examples"
         menu:
-          - href: map.html
+          - href: map.qmd
             text: "Burdekin Climate Zones"
           - href: markdown.rmd
             text: "RMD Example"
-          - href: quarto_java.qmd
+          - href: quarto_ojs.qmd
             text: "Qaurto JavaScript Example"
+          - href: vizualization.html
+            text: "Vega-lite"
           
         
 format:

@@ -1,0 +1,32 @@
+{
+    "id": "CDBCED2A",
+    "path": "~/website/markdown.rmd",
+    "project_path": "markdown.rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1661318848255.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "cursorPosition": "7,0",
+        "scrollLine": "0",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "92:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1661318865,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1661318865571,
+    "read_only": false,
+    "read_only_alternatives": []
+}
