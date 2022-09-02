@@ -16,15 +16,15 @@ Biggs J, Everingham Y, Skocaj D, Schroeder B, **Sexton J** and Thorburn P 2021. 
 
 **Sexton, J**., Everingham, Y., Donald, D., Staunton, S., White, R. 2018.  *A comparison of non-linear regression methods for improved on-line near infrared spectroscopic analysis of a sugarcane quality measure*. Journal of Near Infrared Spectroscopy, 26(5). 297-310, <https://doi.org/10.1177/0967033518802448>.
 
-**Sexton, J**., Everingham, Y., Inman-Bamber, G., 2017.  *A global sensitivity analysis of cultivar trait parameters in a sugarcane growth model for contrasting production environments in Queensland, Australia*. European Journal of Agronomy, 88. pp. 96-105, <http://dx.doi.org/10.1016/j.eja.2015.11.009> 
+**Sexton, J**., Everingham, Y., Inman-Bamber, G., 2017.  *A global sensitivity analysis of cultivar trait parameters in a sugarcane growth model for contrasting production environments in Queensland, Australia*. European Journal of Agronomy, 88. pp. 96-105, <http://dx.doi.org/10.1016/j.eja.2015.11.009>
 
 **Sexton, J**., Everingham, Y., Inman-Bamber, G., 2016.  *A theoretical and real world evaluation of two Bayesian techniques for the calibration of variety parameters in a sugarcane crop model*. Environmental Modelling & Software, 83, 126-142, <http://dx.doi.org/10.1016/j.envsoft.2016.05.014>.
 
-Everingham, Y., **Sexton, J**., Skocaj, D., Inman-Bamber, G., 2016. *Accurate prediction of sugarcane yield using a random forest algorithm*. Agronomy for Sustainable Development*.* **36(**27) <https://doi.org/10.1007/s13593-016-0364-z>. 
+Everingham, Y., **Sexton, J**., Skocaj, D., Inman-Bamber, G., 2016. *Accurate prediction of sugarcane yield using a random forest algorithm*. Agronomy for Sustainable Development*.* **36(**27) <https://doi.org/10.1007/s13593-016-0364-z>.
 
 Stokes, C., Inman-Bamber, G., Everingham, Y., **Sexton, J**., 2016. *Measuring and modelling CO2 effects on sugarcane*. Environmental Modelling and Software*.* **78**,68-78. <https://doi.org/10.1016/j.envsoft.2015.11.022>.
 
-**Sexton,J.**, Everingham, Y., Timbal, B., 2015. *Harvest disruption projections for the Australian sugar industry.* International Journal of Climate Change Strategies and Management 7(2), <http://dx.doi.org/10.1108/IJCCSM-03-2013-0018>. 
+**Sexton,J.**, Everingham, Y., Timbal, B., 2015. *Harvest disruption projections for the Australian sugar industry.* International Journal of Climate Change Strategies and Management 7(2), <http://dx.doi.org/10.1108/IJCCSM-03-2013-0018>.
 
 Everingham, Y., Inman-Bamber,G., **Sexton, J**., Stokes, C., 2015. *A dual ensemble agroclimate modelling procedure to assess climate change impacts on sugarcane production in Australia.* Agricultural Sciences, 6, 870-888. <http://dx.doi.org/10.4236/as.2015.68084>.
 
@@ -36,8 +36,7 @@ Everingham, Y., Gyuris, E., **Sexton, J**., 2013. *Using student feedback to imp
 
 Stringer, J.K., Skocaj, D.M., Rigby, A., Olayemi, M., Everingham, Y.L., **Sexton, J.** (2019) *Productivity performance of climatological sub-regions within the Tully mill area.* In: Proceedings of the 41st Annual Conference of the Australian Society of Sugar Cane Technologists. pp. 156-163 In: ASSCT 2019: 41st Annual Conference of the Australian Society of Sugar Cane Technologists, 30 April - 3 May 2019, Toowoomba, QLD, Australia.
 
-Thorburn, P.J., Biggs, J.S., Skocaj, D., Schroeder, B.L., **Sexton, J**., and Everingham,
-Y. (2018) *Crop size and sugarcane nitrogen fertiliser requirements: Is there a link?* In: Proceedings of the 40th Annual Conference of the Australian Society of Sugar Cane Technologists (40) pp. 210-218 In: ASSCT 2018: 40th Annual Conference of the Australian Society of Sugar Cane Technologists, 17-20 April 2018, Mackay, QLD, Australia
+Thorburn, P.J., Biggs, J.S., Skocaj, D., Schroeder, B.L., **Sexton, J**., and Everingham, Y. (2018) *Crop size and sugarcane nitrogen fertiliser requirements: Is there a link?* In: Proceedings of the 40th Annual Conference of the Australian Society of Sugar Cane Technologists (40) pp. 210-218 In: ASSCT 2018: 40th Annual Conference of the Australian Society of Sugar Cane Technologists, 17-20 April 2018, Mackay, QLD, Australia
 
 **Sexton, J**., Everingham, Y., Donald, D., Staunton, S., White, R. 2018. *A feasibility test for detection of atypical cane samples using near infrared spectroscopy*. Proceedings of the 40th Annual Conference of the Australian Society of Sugar Cane Technologists. In: ASSCT 2018: 40th Annual Conference of the Australian Society of Sugar Cane Technologists, 18-20 April 2018, Mackay, QLD, Australia
 
@@ -49,7 +48,6 @@ Y. (2018) *Crop size and sugarcane nitrogen fertiliser requirements: Is there 
 
 Everingham, Y., **Sexton, J**., and Robson, A. 2015 *A statistical approach for identifying important climatic influences on sugarcane yields.* In: Proceedings of the 37th Annual Conference of the Australian Society of Sugar Cane Technologists (37) pp. 8-15. From: ASSCT 2015: 37th Annual Conference of the Australian Society of Sugar Cane Technologists, 28-30 April 2015, Bundaberg, QLD, Australia.
 
-Everingham, Y., **Sexton, J**., Timbal, B. 2013 *Downscaled rainfall projections for the Burdekin, Mackay and NSW.* In: Proceedings of the 35th Conference of the Australian Society of Sugar Cane Technologists. pp. 1-10. From: 35th Conference of the Australian Society of Sugar Cane Technologists, 16-18 April 2013, Townsville, QLD, Australia. 
+Everingham, Y., **Sexton, J**., Timbal, B. 2013 *Downscaled rainfall projections for the Burdekin, Mackay and NSW.* In: Proceedings of the 35th Conference of the Australian Society of Sugar Cane Technologists. pp. 1-10. From: 35th Conference of the Australian Society of Sugar Cane Technologists, 16-18 April 2013, Townsville, QLD, Australia.
 
 Everingham, Y.L., **Sexton, J**., White, J., 2011. [*An introduction to multivariate adaptive regression splines for the cane industry.*](https://researchonline.jcu.edu.au/20784/) In: Proceedings of the 2011 Conference of the Australian Society of Sugar Cane Technologists. pp. 1-22. From: 2011 Conference of the Australian Society of Sugar Cane Technologists, 4-6 May 2011, Mackay, QLD, Australia.
-
