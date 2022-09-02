@@ -1,0 +1,111 @@
+<html>
+
+<head>
+<style type="text/css">
+.inline {
+  background-color: #f7f7f7;
+  border:solid 1px #B0B0B0;
+}
+.error {
+	font-weight: bold;
+	color: #FF0000;
+}
+.warning {
+	font-weight: bold;
+}
+.message {
+	font-style: italic;
+}
+.source, .output, .warning, .error, .message {
+	padding: 0 1em;
+  border:solid 1px #F7F7F7;
+}
+.source {
+  background-color: #f5f5f5;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+.center {
+  text-align: center;
+}
+.hl.num {
+  color: #AF0F91;
+}
+.hl.str {
+  color: #317ECC;
+}
+.hl.com {
+  color: #AD95AF;
+  font-style: italic;
+}
+.hl.opt {
+  color: #000000;
+}
+.hl.std {
+  color: #585858;
+}
+.hl.kwa {
+  color: #295F94;
+  font-weight: bold;
+}
+.hl.kwb {
+  color: #B05A65;
+}
+.hl.kwc {
+  color: #55aa55;
+}
+.hl.kwd {
+  color: #BC5A65;
+  font-weight: bold;
+}
+</style>
+<title>Title</title>
+</head>
+<body>
+  <div id="vis"; style="width:600px;height:600px"/>
+  <script>
+    const spec = {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": "container",
+  "data": {"url": "data/seattle-weather.csv"},
+  "layer": [
+    {
+      "params": [
+        {"name": "brush", "select": {"type": "interval", "encodings": ["x"]}}
+      ],
+      "mark": "bar",
+      "encoding": {
+        "x": {"timeUnit": "month", "field": "date", "type": "ordinal"},
+        "y": {
+          "aggregate": "mean",
+          "field": "precipitation",
+          "type": "quantitative"
+        },
+        "opacity": {"condition": {"param": "brush", "value": 1}, "value": 0.7}
+      }
+    },
+    {
+      "transform": [{"filter": {"param": "brush"}}],
+      "mark": "rule",
+      "encoding": {
+        "y": {
+          "aggregate": "mean",
+          "field": "precipitation",
+          "type": "quantitative"
+        },
+        "color": {"value": "firebrick"},
+        "size": {"value": 3}
+      }
+    }
+  ],
+  "config": {}
+};
+    vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
+</body>
+</html>
