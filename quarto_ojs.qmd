@@ -41,5 +41,3 @@ filtered = data.filter(function(penguin) {
 Inputs.table(filtered)
 
 ```
-
-
