@@ -30,7 +30,7 @@ website:
             text: "RMD Example"
           - href: quarto_ojs.qmd
             text: "Qaurto JavaScript Example"
-          - href: vega-lite_html.Rhtml
+          - href: visualization.html
             text: "Vega-lite"
           
         
