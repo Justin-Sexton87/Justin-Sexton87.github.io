@@ -67,7 +67,7 @@
     "href": "quarto_ojs.html",
     "title": "Objective JavaScript Example",
     "section": "",
-    "text": "viewof bill_length_min = Inputs.range(\n  [32, 50], \n  {value: 35, step: 1, label: \"Bill length (min):\"}\n)\nviewof islands = Inputs.checkbox(\n  [\"Torgersen\", \"Biscoe\", \"Dream\"], \n  { value: [\"Torgersen\", \"Biscoe\"], \n    label: \"Islands:\"\n  }\n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfiltered = data.filter(function(penguin) {\n  return bill_length_min < penguin.bill_length_mm &&\n         islands.includes(penguin.island);\n})\n\n\n\n\n\n\n\n\nInputs.table(filtered)"
+    "text": "data = FileAttachment(\"./data/palmer_penguins.csv\").csv({ typed: true })\nd3 = require(\"d3\")\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nviewof bill_length_min = Inputs.range(\n  [32, 50], \n  {value: 35, step: 1, label: \"Bill length (min):\"}\n)\nviewof islands = Inputs.checkbox(\n  [\"Torgersen\", \"Biscoe\", \"Dream\"], \n  { value: [\"Torgersen\", \"Biscoe\"], \n    label: \"Islands:\"\n  }\n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfiltered = data.filter(function(penguin) {\n  return bill_length_min < penguin.bill_length_mm &&\n         islands.includes(penguin.island);\n})\n\n\n\n\n\n\n\nInputs.table(filtered)"
   },
   {
     "objectID": "docs/markdown.html",
@@ -109,6 +109,6 @@
     "href": "vegalite.html",
     "title": "Dr. Justin Sexton",
     "section": "",
-    "text": "This doesn’t seem to work\n\nrequire(\"vega-lite@5.2.0\")\n\n\n\n\n\n\n\nrequire(\"vega-embed@6.20.8\")\n\n\n\n\n\n\n\nspec = FileAttachment(\"visualization.vl.json\").json()\nvegaEmbed(\"#vis\", spec, {mode: \"vega-lite\"}).then(console.log).catch(console.warn)"
+    "text": "Vega-lite code in OJS\nThis doesn’t seem to work\n\nrequire(\"vega-lite@5.2.0\")\n\n\n\n\n\n\n\nrequire(\"vega-embed@6.20.8\")\n\n\n\n\n\n\n\nspec = FileAttachment(\"visualization.vl.json\").json()\nvegaEmbed(\"#vis\", spec, {mode: \"vega-lite\"}).then(console.log).catch(console.warn)"
   }
 ]

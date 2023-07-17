@@ -22,18 +22,13 @@ website:
             url: https://www.opticane.net
           - text: "NRM BRICZ"
             url: https://jdsextonjcu.shinyapps.io/NRM_BRICZ/
-      - text: "CSE Interactive Examples"
+      - text: "Dengue in the Pacific"
         menu:
-          - href: map.qmd
-            text: "Burdekin Climate Zones"
-          - href: markdown.rmd
-            text: "RMD Example"
-          - href: quarto_ojs.qmd
-            text: "Qaurto JavaScript Example"
-          - href: visualization.html
-            text: "Vega-lite"
+          - href: pic_islands_map.html
+            text: "Pacific Island Countries"
+          - href: interpacific_connections_chords.html
+            text: "Chord Diagram Inter-Pacific Flights"
           
-        
 format:
   html:
     theme: cosmo
